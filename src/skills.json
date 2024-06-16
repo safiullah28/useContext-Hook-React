@@ -1,0 +1,30 @@
+[
+  {
+    "title": "HTML",
+    "icon": "html.jpg"
+  },
+  {
+    "title": "CSS",
+    "icon": "css.jpg"
+  },
+  {
+    "title": "React",
+    "icon": "react.jpg"
+  },
+  {
+    "title": "Node",
+    "icon": "node.jpg"
+  },
+  {
+    "title": "GraphQL",
+    "icon": "graphql.jpg"
+  },
+  {
+    "title": "MongoDB",
+    "icon": "mongodb.jpg"
+  },
+  {
+    "title": "Figma",
+    "icon": "figma.jpg"
+  }
+]
