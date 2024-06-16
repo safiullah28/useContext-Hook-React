@@ -19,11 +19,13 @@ function App() {
         </data2.Provider>
       </data1.Provider>
       <div>
-        {iconsData.map((skill) => {
-          return <div>
-            <img src={skill.icon} alt={skill.title} />
-            <h3>{skill.title}</h3>
-          </div>;
+        {Skills.map((skill) => {
+          return (
+            <div>
+              <img src={skill.icon} alt={skill.title} />
+              <h3>{skill.title}</h3>
+            </div>
+          );
         })}
       </div>
     </div>
